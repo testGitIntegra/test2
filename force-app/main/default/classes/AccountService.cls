@@ -15,7 +15,7 @@ public class AccountService {
             Phone = phone
         );
         insert acc;
-        return acc;//test2from git
+        return acc;//test2
     }
     
     public static void updateAccountPhone(Id accountId, String newPhone) {
